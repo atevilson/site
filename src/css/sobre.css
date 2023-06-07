@@ -51,3 +51,31 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+
+.python,
+.javaScript,
+.sql,
+.git,
+.docker,
+.jupyter,
+.excel,
+.postman,
+.minitab,
+.powerbi {
+  display: flex;
+  width: 15px;
+  height: 15px;
+  gap: 15px;
+}
+
+.linguagens li {
+  margin: 10px 0;
+}
+
+.tecnologias li {
+  margin: 10px 0;
+}
+
+.ferramentas li {
+  margin: 10px 0;
+}
